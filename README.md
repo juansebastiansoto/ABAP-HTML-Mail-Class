@@ -1,0 +1,1 @@
+# ABAP-HTML Mail Class
